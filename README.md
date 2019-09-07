@@ -7,6 +7,9 @@ DHT pin D2
 
 use SPI D
 
+![ScreenShot](https://github.com/worrajak/TTN_RA02_Nano/blob/master/nano-2.png?raw=true)
+
+
 pin mapping arduino nano 
 
 ```
