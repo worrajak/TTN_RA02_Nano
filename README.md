@@ -5,7 +5,7 @@ arduino nano, RA02 Lorawan, DHT22 and The Things Network
 
 DHT pin D2 
 
-use SPI D
+use SPI D10 D11 D12 D13
 
 ![ScreenShot](https://github.com/worrajak/TTN_RA02_Nano/blob/master/nano-2.png?raw=true)
 
