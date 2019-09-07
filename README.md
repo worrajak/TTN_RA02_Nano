@@ -3,12 +3,13 @@
 
 arduino nano, RA02 Lorawan, DHT22 and The Things Network 
 
-DHT pin 2 
+DHT pin D2 
 
-use SPI 
+use SPI D
 
 pin mapping arduino nano 
 
+```
 // Pin mapping
 const lmic_pinmap lmic_pins = {
     .nss = 10,
@@ -16,4 +17,4 @@ const lmic_pinmap lmic_pins = {
     .rst = 5,
     .dio = {9, 8, 0},
 };
-
+```
